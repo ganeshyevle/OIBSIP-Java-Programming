@@ -1,30 +1,16 @@
-# Oasis-Infobyte-Java-Developement-Internship-task-2
+## Hello #connections !!
+# Java-Developement-Internship
+### I have completed my Task 2 as Java Development Intern at Oasis Infobyte.
 
-Hello #connections !!
+Task2 : Guess Number Game<br>
+Oasis Infobyte<br>
 
-I have completed my Task 2 as Java Development Intern at Oasis Infobyte Thank You for this opportunity.
+AUTHOR: GANESH KAILAS YEVLE<br>
+BATCH: OIBJULY2022<br>
+Language: Java Programming<br>
+IDE: Visual Studio Code<br>
+GitHub Link: https://github.com/ganeshyevle/OIBSIP-Java-Programming/tree/main/Task2%20Number%20Guessing%20Game<br>
 
-Task : Guess Number Game
+A special thanks to The Oasis Infobyte for this opportunity.<br>
 
-
-#java #development #intern #github #oasisinfobyte #Oasis-Infobyte
-
-Java-Developement-Internship
-I have completed my Task 2 as Java Development Intern at Oasis Infobyte Thank You for this opportunity.
-
-Task : Guess Number Game
-Oasis Infobyte
-
-AUTHOR: GANESH KAILAS YEVLE
-BATCH: OIBJULY2022
-
-# Oasis-Infobyte-Java-Developement-Internship-task-2
-#java #development #intern #github #oasisinfobyte #Oasis-Infobyte
-
-Language: Java Programming
-IDE: Visual Studio Code
-GitHub Link: https://lnkd.in/dpd_qShg
-
-A special thanks to The Sparks Foundation for this opportunity.
-
-To apply for this internship: https://lnkd.in/gHi9PQUe
+#Oasis-Infobyte-Java-Developement-Internship-task-2 #java #development #intern #github #oasisinfobyte #Oasis-Infobyte<br>
